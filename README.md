@@ -59,9 +59,9 @@ Next-gen web experience built with cutting-edge frontend tools.
 
 ## 📫 **Reach Me**
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:ahmadtanveer.2905@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tanveer-ahmad-6a5468251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tanveer2905.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---

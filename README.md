@@ -57,20 +57,6 @@ Next-gen web experience built with cutting-edge frontend tools.
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanveer2905" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanveer2905&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer2905&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 **Reach Me**
 <p>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
